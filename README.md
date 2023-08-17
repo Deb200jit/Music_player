@@ -1,0 +1,3 @@
+# Music_player
+This is a music player create using HTML, CSS and  java Script...
+You can see the Demo of the Project: https://musicplayerbydebjit.netlify.app/
